@@ -18,7 +18,8 @@ Built using **HTML5** and **CSS3**, it highlights internship roles with details,
 
 ## 🔗 Live Demo
 
-👉 [View Project Here](https://your-username.github.io/internship-opportunities/)  
+👉 [View Project Here] https://ysrani.github.io/Internship_webpage/
+
 
 ## ✨ Features
 - 📱 Fully responsive design for desktop and mobile  
